@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "producs",
+  "info": {
+    "singularName": "produc",
+    "pluralName": "producs",
+    "displayName": "Produc"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nama": {
+      "type": "string"
+    },
+    "stok": {
+      "type": "biginteger"
+    }
+  }
+}
